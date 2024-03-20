@@ -4,4 +4,4 @@ The goal is to make a simple app that can adjust financial planning based on liv
 
 # Tech Used
 
-Python, Flask
+Python, Flask, SQLite, Tailwind CDN
